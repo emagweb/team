@@ -1,3 +1,11 @@
+----
+### Primary Branch
+
+First work version - do not change code !!!!
+Create new branch and after merge it with main branch
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
