@@ -1,8 +1,10 @@
 ----
-### Primary Branch
+### Work Branch
 
-First work version - do not change code !!!!
-Create new branch and after merge it with main branch
+Use this branch for any needs
+After merge it with main branch
+
+####Do not Merge anything to Primary Branch !!!
 
 ---
 
